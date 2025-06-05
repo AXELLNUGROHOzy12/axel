@@ -483,6 +483,12 @@
       "path": "/imagecreator/bratanime?apikey=&text="
     },
     {
+      "name": "Fu Brat",
+      "desc": "Generate Fu Brat style text with optional color",
+      "status": "Active",
+      "path": "/imagecreator/fubrat?apikey=&text=&style="
+    },
+    {
       "name": "vcc generator",
       "desc": "",
       "status": "Active",
