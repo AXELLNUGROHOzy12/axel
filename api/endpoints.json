@@ -29,6 +29,12 @@
       "desc": "BlackBox AI with optional image and session support",
       "status": "Active",
       "path": "/ai/blackboxai?apikey=&text=&imageUrl=&sessionid="
+    },
+    {
+      "name": "Aoyo AI",
+      "desc": "Aoyo AI chat integration",
+      "status": "Active",
+      "path": "/ai/aoyoai?apikey=&text="
     }
   ],
   "orderkuota": [
@@ -597,4 +603,5 @@
       "path": "/api/status"
     }
   ]
-}
+    }
+    
