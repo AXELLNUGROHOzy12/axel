@@ -3,7 +3,7 @@ const axios = require("axios")
 module.exports = (app) => {
   async function AoyoAI(text) {
     try {
-      const apiUrl = `https://api.nekorinn.my.id/ai/aoyo?text=${encodeURIComponent(text)}`
+      const apiUrl = `https://api.fadzzzproject.my.id/ai/shiroko?text=${encodeURIComponent(text)}`
 
       const response = await axios.get(apiUrl, {
         headers: {
