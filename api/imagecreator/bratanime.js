@@ -12,7 +12,7 @@ module.exports = function (app) {
     }
 
     try {
-      const apiUrl = `https://api.example.com/generate?text=${encodeURIComponent(text)}`;
+      const apiUrl = `https://api.fadzzzproject.my.id/imagecreator/animbrat?text=${encodeURIComponent(text)}`;
       const response = await axios.get(apiUrl, {
         responseType: 'arraybuffer'
       });
