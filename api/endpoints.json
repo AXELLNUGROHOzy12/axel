@@ -501,6 +501,12 @@
       "path": "/imagecreator/textglitch?apikey=&text="
     },
     {
+      "name": "Underwater Text",
+      "desc": "Generate 3D underwater text effect",
+      "status": "Active",
+      "path": "/imagecreator/undertext?apikey=&text="
+    },
+    {
       "name": "vcc generator",
       "desc": "",
       "status": "Active",
