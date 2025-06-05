@@ -191,6 +191,12 @@
       "desc": "Lacak Lokasi Dan Provider",
       "status": "Active",
       "path": "/random/cek-nomor?apikey=&nomor="
+    },
+    {
+      "name": "Anime Quote",
+      "desc": "Random anime quotes with character and anime info",
+      "status": "Active",
+      "path": "/random/animequote?apikey="
     }
   ],
   "search": [
