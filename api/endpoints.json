@@ -429,6 +429,12 @@
       "path": "/imagecreator/ba-logo?apikey=&textL=&textR="
     },
     {
+      "name": "Carbonify",
+      "desc": "Convert code to beautiful image",
+      "status": "Active",
+      "path": "/imagecreator/carbonify?apikey=&code="
+    },
+    {
       "name": "Nulis Buku",
       "desc": "To write text in a book",
       "status": "Active",
