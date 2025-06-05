@@ -489,6 +489,12 @@
       "path": "/imagecreator/fubrat?apikey=&text=&style="
     },
     {
+      "name": "Text Glitch",
+      "desc": "Generate pixel glitch text effect",
+      "status": "Active",
+      "path": "/imagecreator/textglitch?apikey=&text="
+    },
+    {
       "name": "vcc generator",
       "desc": "",
       "status": "Active",
@@ -609,5 +615,4 @@
       "path": "/api/status"
     }
   ]
-    }
-    
+}
