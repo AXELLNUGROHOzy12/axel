@@ -23,6 +23,12 @@
       "desc": "OpenAI GPT chat using external API",
       "status": "Active",
       "path": "/ai/openaigpt?apikey=&text="
+    },
+    {
+      "name": "BlackBox AI",
+      "desc": "BlackBox AI with optional image and session support",
+      "status": "Active",
+      "path": "/ai/blackboxai?apikey=&text=&imageUrl=&sessionid="
     }
   ],
   "orderkuota": [
@@ -435,6 +441,12 @@
       "path": "/imagecreator/carbonify?apikey=&code="
     },
     {
+      "name": "Text to Ghibli V2",
+      "desc": "Generate Ghibli style image from text",
+      "status": "Active",
+      "path": "/imagecreator/texttoghibli-v2?apikey=&text="
+    },
+    {
       "name": "Nulis Buku",
       "desc": "To write text in a book",
       "status": "Active",
@@ -475,6 +487,12 @@
       "desc": "",
       "status": "Active",
       "path": "/imagecreator/ktp-maker?apikey=&nama=&nik=&ttl=&jk=&alamat=&agama=&status=&pekerjaan=&kewarganegaraan=&image="
+    },
+    {
+      "name": "AI Logo Generator",
+      "desc": "Generate professional logo with AI based on title, slogan and industry",
+      "status": "Active",
+      "path": "/imagecreator/ilogo?apikey=&title=&slogan=&industry="
     }
   ],
   "berita": [
