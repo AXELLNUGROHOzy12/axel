@@ -357,12 +357,20 @@
       "desc": "translate morse code to text",
       "status": "Active",
       "path": "/tools/morse2text?apikey=&morse="
-    },
+    }
+  ],
+  "primbon": [
     {
       "name": "Tafsir Mimpi",
       "desc": "Interpretasi arti mimpi dalam primbon Jawa",
       "status": "Active",
-      "path": "/tools/tafsir-mimpi?apikey=&mimpi="
+      "path": "/primbon/tafsir-mimpi?apikey=&mimpi="
+    },
+    {
+      "name": "Arti Nama",
+      "desc": "Mencari arti dan makna nama seseorang",
+      "status": "Active",
+      "path": "/random/artinama?apikey=&nama="
     }
   ],
   "stalker": [
