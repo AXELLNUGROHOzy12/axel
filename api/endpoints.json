@@ -362,7 +362,7 @@
       "name": "Tafsir Mimpi",
       "desc": "Interpretasi arti mimpi dalam primbon Jawa",
       "status": "Active",
-      "path": "/random/tafsirmimpi?apikey=&mimpi="
+      "path": "/tools/tafsir-mimpi?apikey=&mimpi="
     }
   ],
   "stalker": [
