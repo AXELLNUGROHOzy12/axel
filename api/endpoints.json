@@ -458,7 +458,7 @@
       "name": "Brat Video",
       "desc": "Brat animated text generator (GIF format)",
       "status": "Active",
-      "path": "/imagecreator/bratvideo?apikey=&text=&delay="
+      "path": "/imagecreator/bratvideo?apikey=&text="
     },
     {
       "name": "BA Logo",
