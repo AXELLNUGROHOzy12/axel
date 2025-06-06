@@ -3,13 +3,13 @@
     {
       "name": "Deepseek",
       "desc": "Deepseek ai",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/ai/deepseek?apikey=&text="
     },
     {
       "name": "Openai",
       "desc": "Openai chat",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/ai/openai?apikey=&text="
     },
     {
@@ -27,7 +27,7 @@
     {
       "name": "BlackBox AI",
       "desc": "BlackBox AI with optional image and session support",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/ai/blackboxai?apikey=&text=&imageUrl=&sessionid="
     },
     {
@@ -195,7 +195,7 @@
     {
       "name": "Anime Quote",
       "desc": "Random anime quotes with character and anime info",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/random/animequote?apikey="
     }
   ],
@@ -431,31 +431,31 @@
     {
       "name": "Brat",
       "desc": "Brat text generator",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/imagecreator/brat?apikey=&text="
     },
     {
       "name": "Brat Video",
       "desc": "Brat animated text generator",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/imagecreator/bratvideo?apikey=&text="
     },
     {
       "name": "BA Logo",
       "desc": "Blue Archive logo generator",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/imagecreator/ba-logo?apikey=&textL=&textR="
     },
     {
       "name": "Carbonify",
       "desc": "Convert code to beautiful image",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/imagecreator/carbonify?apikey=&code="
     },
     {
       "name": "Text to Ghibli V2",
       "desc": "Generate Ghibli style image from text",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/imagecreator/texttoghibli-v2?apikey=&text="
     },
     {
@@ -485,43 +485,43 @@
     {
       "name": "Brat Anime",
       "desc": "Generete Brat with Anime",
-      "status": "Active",
+      "status": "ERROR",
       "path": "/imagecreator/bratanime?apikey=&text="
     },
     {
       "name": "Fu Brat",
       "desc": "Generate Fu Brat style text with optional color",
-      "status": "Active",
+      "status": "HAPPENING",
       "path": "/imagecreator/fubrat?apikey=&text=&style="
     },
     {
       "name": "Text Glitch",
       "desc": "Generate pixel glitch text effect",
-      "status": "Active",
+      "status": "HAPPENING",
       "path": "/imagecreator/textglitch?apikey=&text="
     },
     {
       "name": "Underwater Text",
       "desc": "Generate 3D underwater text effect",
-      "status": "Active",
+      "status": "HAPPENING",
       "path": "/imagecreator/undertext?apikey=&text="
     },
     {
       "name": "vcc generator",
       "desc": "",
-      "status": "Active",
+      "status": "EXP",
       "path": "/imagecreator/vcc?apikey="
     },
     {
       "name": "ktp maker",
       "desc": "",
-      "status": "Active",
+      "status": "EXP",
       "path": "/imagecreator/ktp-maker?apikey=&nama=&nik=&ttl=&jk=&alamat=&agama=&status=&pekerjaan=&kewarganegaraan=&image="
     },
     {
       "name": "AI Logo Generator",
       "desc": "Generate professional logo with AI based on title, slogan and industry",
-      "status": "Active",
+      "status": "EXP",
       "path": "/imagecreator/ilogo?apikey=&title=&slogan=&industry="
     }
   ],
