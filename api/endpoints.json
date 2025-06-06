@@ -357,6 +357,12 @@
       "desc": "translate morse code to text",
       "status": "Active",
       "path": "/tools/morse2text?apikey=&morse="
+    },
+    {
+      "name": "Tafsir Mimpi",
+      "desc": "Interpretasi arti mimpi dalam primbon Jawa",
+      "status": "Active",
+      "path": "/random/tafsirmimpi?apikey=&mimpi="
     }
   ],
   "stalker": [
@@ -430,15 +436,15 @@
     },
     {
       "name": "Brat",
-      "desc": "Brat text generator with color mode options (green/white)",
+      "desc": "Brat text generator with animation options",
       "status": "Active",
-      "path": "/imagecreator/brat?apikey=&text="
+      "path": "/imagecreator/brat?apikey=&text=&isAnimated=&delay="
     },
     {
       "name": "Brat Video",
-      "desc": "Brat animated text generator",
+      "desc": "Brat animated text generator (GIF format)",
       "status": "Active",
-      "path": "/imagecreator/bratvideo?apikey=&text="
+      "path": "/imagecreator/bratvideo?apikey=&text=&delay="
     },
     {
       "name": "BA Logo",
