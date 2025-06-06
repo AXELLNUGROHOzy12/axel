@@ -282,7 +282,16 @@
     },
     {
       "name": "OpenAI TTS",
-      "desc": "OpenAI Text-to-Speech dengan berbagai pilihan voice",
+      "desc": "OpenAI Text-to-Speech dengan berbagai pilihan voice yaitu alloy",
+    "ash",
+    "ballad",
+    "coral",
+    "echo",
+    "fable",
+    "onyx",
+    "nova",
+    "sage",
+    "shimmer",",
       "status": "Active",
       "path": "/tools/openai-tts?apikey=&text=&voice="
     },
