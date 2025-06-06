@@ -452,7 +452,7 @@
       "name": "Brat",
       "desc": "Brat text generator with animation options",
       "status": "Active",
-      "path": "/imagecreator/brat?apikey=&text=&isAnimated=&delay="
+      "path": "/imagecreator/brat?apikey=&text="
     },
     {
       "name": "Brat Video",
