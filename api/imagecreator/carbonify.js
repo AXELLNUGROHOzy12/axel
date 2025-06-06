@@ -17,7 +17,7 @@ module.exports = (app) => {
     }
 
     try {
-      const apiUrl = `https://api.nekorinn.my.id/maker/carbonify?code=${encodeURIComponent(code)}`
+      const apiUrl = `https://api.siputzx.my.id/api/m/carbonify?input=${encodeURIComponent(code)}`
       const response = await axios.get(apiUrl, {
         responseType: "arraybuffer",
         headers: {
