@@ -197,6 +197,12 @@
       "desc": "Random anime quotes with character and anime info",
       "status": "Active",
       "path": "/random/animequote?apikey="
+    },
+    {
+      "name": "Zodiak",
+      "desc": "Informasi tentang zodiak dan ramalan",
+      "status": "Active",
+      "path": "/random/zodiak?apikey=&zodiak="
     }
   ],
   "search": [
@@ -370,7 +376,7 @@
       "name": "Arti Nama",
       "desc": "Mencari arti dan makna nama seseorang",
       "status": "Active",
-      "path": "/random/artinama?apikey=&nama="
+      "path": "/primbon/artinama?apikey=&nama="
     }
   ],
   "stalker": [
