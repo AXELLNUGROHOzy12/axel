@@ -281,6 +281,12 @@
       "path": "/tools/text-to-speech?apikey=&text="
     },
     {
+      "name": "OpenAI TTS",
+      "desc": "OpenAI Text-to-Speech dengan berbagai pilihan voice",
+      "status": "Active",
+      "path": "/tools/openai-tts?apikey=&text=&voice="
+    },
+    {
       "name": "Screenshot Web",
       "desc": "Screenshot web url",
       "status": "Active",
