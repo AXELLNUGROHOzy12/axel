@@ -282,7 +282,7 @@
     },
     {
       "name": "OpenAI TTS",
-      "desc": "OpenAI Text-to-Speech dengan berbagai pilihan voice",
+      "desc": "OpenAI Text-to-Speech Dengan pilihan Alloy,Ash,Ballad,Coral,Echo",
       "status": "Active",
       "path": "/tools/openai-tts?apikey=&text=&voice="
     },
