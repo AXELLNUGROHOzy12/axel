@@ -432,7 +432,7 @@
       "name": "Brat",
       "desc": "Brat text generator with color mode options (green/white)",
       "status": "Active",
-      "path": "/imagecreator/brat?apikey=&text=&mode="
+      "path": "/imagecreator/brat?apikey=&text="
     },
     {
       "name": "Brat Video",
