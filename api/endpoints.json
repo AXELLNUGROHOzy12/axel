@@ -374,7 +374,7 @@
       "name": "AI Story Generator",
       "desc": "Generate creative stories based on prompts with customizable length and genre",
       "status": "Active",
-      "path": "/tools/ai-story-generator?apikey=&prompt=&length=&genre="
+      "path": "/tools/ai-story-generator?apikey=&prompt="
     }
   ],
   "primbon": [
